@@ -1,0 +1,18 @@
+[2019-03-31 00:02:58] [info] Start Program:
+Path:"D:\SEMESTRUL 2\OOP\Assignments\Assignment5-6\PetShop\Debug\PetShop.exe"
+Arguments:
+Working directory: "D:\SEMESTRUL 2\OOP\Assignments\Assignment5-6\PetShop\PetShop\"
+Modules: Selected: D:\SEMESTRUL 2\OOP\Assignments\Assignment5-6\PetShop\Debug\PetShop.exe Excluded: 
+Sources: Selected: D:\SEMESTRUL 2\OOP\Assignments\Assignment5-6\PetShop\PetShop Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\User\AppData\Local\Temp\rdnj4esj.1h1 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2019-03-31 00:03:04] [info] Module: D:\SEMESTRUL 2\OOP\Assignments\Assignment5-6\PetShop\Debug\PetShop.exe is selected because it matches selected pattern: D:\SEMESTRUL 2\OOP\Assignments\Assignment5-6\PetShop\Debug\PetShop.exe
